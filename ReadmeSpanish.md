@@ -83,50 +83,85 @@ Este proyecto fue desarrollado como mi primer sistema profesional completo, apli
 
 ---
 
-## Imagenes
+## 📸 Capturas de Pantalla
 
-### 1. Login
+Una colección de imágenes que muestran las funciones clave del sistema:
 
-![image](https://github.com/user-attachments/assets/4b41212b-7c82-48b6-b2d3-098981792e20)
+---
 
-## 2. Venta tiempos
+### 🔐 1. Pantalla de Inicio de Sesión
+Inicio de sesión seguro para usuarios y administradores.
 
-![image](https://github.com/user-attachments/assets/2684cc08-b927-4c1f-98e9-7cbd10e2aab0)
+![Login](https://github.com/user-attachments/assets/4b41212b-7c82-48b6-b2d3-098981792e20)
 
-## 3. Facturas
+---
 
-![image](https://github.com/user-attachments/assets/38cd3571-abcf-4fa0-a01f-9d4879fd38a5)
+### 🛒 2. Venta de Tiempos
+Selección y compra de números y reventados.
 
-## 4. Impresion
+![Venta Tiempos](https://github.com/user-attachments/assets/2684cc08-b927-4c1f-98e9-7cbd10e2aab0)
 
-![image](https://github.com/user-attachments/assets/38f415bd-17b2-4bf5-bc9e-e1374f782dd6)
+---
 
-## 5. Numero Ganador
+### 🧾 3. Generación de Factura
+Facturas automáticas con los detalles de la compra.
 
-![image](https://github.com/user-attachments/assets/309059d3-7f57-458b-b700-f0703e0af458)
+![Facturas](https://github.com/user-attachments/assets/38cd3571-abcf-4fa0-a01f-9d4879fd38a5)
 
-## 6. Factura Ganadora!
+---
 
-![image](https://github.com/user-attachments/assets/37438e00-6f8c-40fe-9cca-c18634675121)
+### 🖨️ 4. Factura Lista para Imprimir
+Diseño limpio y preparado para impresión directa.
 
-## 7. Reporte de Usuario
+![Impresión](https://github.com/user-attachments/assets/38f415bd-17b2-4bf5-bc9e-e1374f782dd6)
 
-![image](https://github.com/user-attachments/assets/e417a3b5-60eb-4c9c-913b-b5b139203b10)
+---
 
-## 8. Mantenimiento de Sorteos
+### 🎯 5. Registro del Número Ganador
+Ingreso manual del número ganador por parte del administrador.
 
-![image](https://github.com/user-attachments/assets/4c08c150-a62c-42e3-9176-d8a8b37fe1b1)
+![Número Ganador](https://github.com/user-attachments/assets/309059d3-7f57-458b-b700-f0703e0af458)
 
-## 9. Mantenimiento de Usuarios
+---
 
-![image](https://github.com/user-attachments/assets/0447f156-1c17-4536-a293-c72f046e3331)
+### 🥇 6. Vista de Factura Ganadora
+Factura destacada en caso de acierto.
 
-## 10. Filtros de facturas
+![Factura Ganadora](https://github.com/user-attachments/assets/37438e00-6f8c-40fe-9cca-c18634675121)
 
-![image](https://github.com/user-attachments/assets/d58f9291-642f-42e7-a794-1c0b5d373fd2)
+---
 
-## 11. Reporte de ventas 
+### 👤 7. Reporte de Ventas por Usuario
+Consulta filtrada por usuario, sorteo o fecha.
 
-![image](https://github.com/user-attachments/assets/d97c5530-ca38-443b-9bcf-cb128001a96a)
+![Reporte Usuario](https://github.com/user-attachments/assets/e417a3b5-60eb-4c9c-913b-b5b139203b10)
+
+---
+
+### 🛠️ 8. Mantenimiento de Sorteos
+Gestión completa de sorteos: crear, modificar, desactivar o reactivar.
+
+![Mantenimiento Sorteos](https://github.com/user-attachments/assets/4c08c150-a62c-42e3-9176-d8a8b37fe1b1)
+
+---
+
+### 👥 9. Mantenimiento de Usuarios
+Activación, desactivación y edición de usuarios y roles.
+
+![Mantenimiento Usuarios](https://github.com/user-attachments/assets/0447f156-1c17-4536-a293-c72f046e3331)
+
+---
+
+### 🔎 10. Filtros de Facturas
+Búsqueda avanzada y filtros para consultar ventas y facturas.
+
+![Filtros Facturas](https://github.com/user-attachments/assets/d58f9291-642f-42e7-a794-1c0b5d373fd2)
+
+---
+
+### 📊 11. Reporte de Ventas
+Gráficos interactivos para el análisis de ventas y reventados.
+
+![Reporte Ventas](https://github.com/user-attachments/assets/d97c5530-ca38-443b-9bcf-cb128001a96a)
 
 ---
