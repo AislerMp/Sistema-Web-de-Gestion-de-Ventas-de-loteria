@@ -87,3 +87,85 @@ This was developed as my first real-world professional project, built for a clie
 
 ---
 
+## 📸 Screenshots
+
+A collection of images showcasing key features of the system:
+
+---
+
+### 🔐 1. Login Interface
+Simple and secure login for users and admins.
+
+![Login](https://github.com/user-attachments/assets/4b41212b-7c82-48b6-b2d3-098981792e20)
+
+---
+
+### 🛒 2. Ticket Sales View
+Users can select and buy available numbers or reventados.
+
+![Venta Tiempos](https://github.com/user-attachments/assets/2684cc08-b927-4c1f-98e9-7cbd10e2aab0)
+
+---
+
+### 🧾 3. Invoice Generation
+Automated invoices are generated after each sale.
+
+![Facturas](https://github.com/user-attachments/assets/38cd3571-abcf-4fa0-a01f-9d4879fd38a5)
+
+---
+
+### 🖨️ 4. Printable Invoices
+Invoices are ready to be printed in a clean format.
+
+![Impresion](https://github.com/user-attachments/assets/38f415bd-17b2-4bf5-bc9e-e1374f782dd6)
+
+---
+
+### 🎯 5. Winning Number Input
+Admins can input and register the winning number.
+
+![Numero Ganador](https://github.com/user-attachments/assets/309059d3-7f57-458b-b700-f0703e0af458)
+
+---
+
+### 🥇 6. Winner Invoice View
+Winning ticket is highlighted with winner-specific styling.
+
+![Factura Ganadora](https://github.com/user-attachments/assets/37438e00-6f8c-40fe-9cca-c18634675121)
+
+---
+
+### 👤 7. User Sales Report
+Admins can filter sales by user, sorteo, and date.
+
+![Reporte Usuario](https://github.com/user-attachments/assets/e417a3b5-60eb-4c9c-913b-b5b139203b10)
+
+---
+
+### 🛠️ 8. Sorteo Management
+Admin panel to create, edit, deactivate or reactivate sorteos.
+
+![Mantenimiento Sorteos](https://github.com/user-attachments/assets/4c08c150-a62c-42e3-9176-d8a8b37fe1b1)
+
+---
+
+### 👥 9. User Management
+Manage active/inactive users and control roles.
+
+![Mantenimiento Usuarios](https://github.com/user-attachments/assets/0447f156-1c17-4536-a293-c72f046e3331)
+
+---
+
+### 🔎 10. Invoice Filters
+Advanced filters for invoice lookup and admin actions.
+
+![Filtros Facturas](https://github.com/user-attachments/assets/d58f9291-642f-42e7-a794-1c0b5d373fd2)
+
+---
+
+### 📊 11. Sales Report
+Interactive graphs for visual analysis of sales and reventados.
+
+![Reporte Ventas](https://github.com/user-attachments/assets/d97c5530-ca38-443b-9bcf-cb128001a96a)
+
+---
