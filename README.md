@@ -1,88 +1,89 @@
 # Venta-de-tiempos-Privados
 Sistema web para administrar ventas de lotería y tiempos, con gestión de usuarios, sorteos, facturación, reportes y gráficos. Ofrece seguridad, control de acceso y una interfaz moderna, ideal para centralizar y agilizar la operación en varios locales.
 
-# 🎰 Sistema de Gestión de Sorteos y Ventas - Proyecto Profesional
+# 🎰 Lottery and Sales Management System - Professional Project
 
-Este proyecto es una aplicación web desarrollada con Flask (Python) que permite la gestión integral de sorteos, ventas de números, usuarios y reportes de facturación. Fue diseñado para una cadena de locales comerciales que maneja sorteos internos y control de premios, con foco en facilidad de uso, seguridad y eficiencia operativa.
-
----
-
-## ✅ Funcionalidades Principales
-
-### 1. Gestión de Usuarios
-- Registro, edición, reactivación y desactivación de cuentas.
-- Roles diferenciados: administrador y usuario estándar.
-- Control de acceso mediante decoradores.
-- Seguridad avanzada: una sesión activa por usuario.
-- Validaciones y formularios personalizados.
-
-### 2. Gestión de Sorteos
-- Creación, modificación y eliminación de sorteos.
-- Lógica para límites de ventas, números reventados y montos máximos.
-- Validaciones de horario, duplicados y reglas de negocio.
-
-### 3. Ventas y Facturación
-- Registro de ventas normales y reventadas.
-- Validación automática de montos y disponibilidad.
-- Generación de facturas detalladas.
-- Impresión y reimpresión de facturas.
-- Filtros por usuario, sorteo y fecha.
-
-### 4. Reportes y Estadísticas
-- Reportes de ventas totales y reventadas.
-- Visualización por usuario, sorteo o fecha.
-- Gráficos interactivos con Plotly.
-- Exportación e impresión.
-
-### 5. Resultados y Ganadores
-- Registro de números ganadores por sorteo.
-- Validaciones anti-duplicado.
-- Consulta de resultados pasados.
-
-### 6. Panel de Administración
-- Vista exclusiva para administradores.
-- Mantenimiento de usuarios y sorteos.
-- Reactivación o eliminación definitiva.
-- Búsquedas y filtros avanzados en facturas.
-
-### 7. Interfaz de Usuario (Frontend)
-- Uso de plantillas Jinja2.
-- CSS personalizado y responsive.
-- JavaScript para interacción y validaciones.
-- SweetAlert2 para alertas visuales.
-- Estilos de impresión optimizados.
+This is a professional-grade web application developed using Flask (Python) for managing internal lotteries, number sales, users, and detailed sales reporting. It was built for a business with multiple physical stores, focusing on usability, security, and operational control.
 
 ---
 
-## 🛡️ Seguridad
-- Decoradores para protección de rutas.
-- Validación de usuarios activos.
-- Sesión única por usuario.
-- Confirmaciones para acciones críticas.
+## ✅ Main Features
+
+### 1. User Management
+- Register, edit, reactivate, and deactivate user accounts.
+- Role-based access: Admin and Regular User.
+- Route protection using decorators.
+- Advanced security: single active session per user.
+- Custom forms and validation for active/inactive users.
+
+### 2. Lottery Management
+- Create, update, deactivate and reactivate lotteries.
+- Business logic for sales limits, re-sell caps, and payment rules.
+- Validations for timing, duplicate entries, and constraints.
+
+### 3. Sales and Invoicing
+- Track sales of regular and re-sold numbers.
+- Validate maximum amounts and business rules.
+- Automatically generate detailed invoices.
+- Print and reprint invoices.
+- Filter invoices by user, date, and lottery.
+
+### 4. Reports and Statistics
+- Reports for sales per user, lottery, and date.
+- Re-sell activity reports.
+- Summary reports and financial balances.
+- Interactive charts with Plotly.
+- Export and print reporting options.
+
+### 5. Results and Winners
+- Record and validate winning numbers.
+- Prevent duplicate entries and input errors.
+- Search results by date or lottery.
+
+### 6. Admin Panel
+- Exclusive access for administrators.
+- Full maintenance of users and lotteries.
+- Permanent deletion and reactivation of records.
+- Advanced filtering and querying of invoices.
+
+### 7. User Interface (Frontend)
+- Clean UI using Jinja2 templates.
+- Custom responsive CSS for mobile and desktop.
+- JavaScript for validations and calculations.
+- SweetAlert2 for confirmation and success/error messages.
+- Print-friendly styles for invoices and reports.
 
 ---
 
-## 🧩 Extras Técnicos
-- Diseño adaptado a móvil y escritorio.
-- Paginación en reportes y consultas.
-- Exportación de datos.
-- Estilo e impresión profesional de facturas.
-- Código modular y documentado.
+## 🛡️ Security
+- Protected routes with Flask decorators.
+- Active status check for all users.
+- Session management: one active session per user.
+- Confirmations before critical actions (e.g., delete, update).
 
 ---
 
-## 🧑‍💻 Tecnologías Utilizadas
+## 🧩 Additional Features
+- Responsive design for all devices.
+- Pagination and filters on queries.
+- Exporting of data and reports.
+- Real-time balance and earnings calculations.
+- Clean, maintainable, and modular codebase.
+
+---
+
+## 🧑‍💻 Technologies Used
 - Python 3 / Flask
-- Jinja2
 - SQLite / SQLAlchemy
+- Jinja2 Templates
 - HTML5 / CSS3 / JavaScript
-- Plotly
-- SweetAlert2
+- Plotly (interactive charts)
+- SweetAlert2 (user feedback)
 
 ---
 
-## ⚠️ Nota
-Este proyecto fue desarrollado como mi primer sistema profesional completo, aplicado a un entorno real de negocio (supermercados y locales). El enfoque fue 100% funcional, robusto y escalable.
+## ⚠️ Note
+This was developed as my first real-world professional project, built for a client with multiple local businesses. The system is fully functional, scalable, and designed for easy maintenance.
 
 ---
 
